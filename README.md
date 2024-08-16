@@ -21,6 +21,6 @@ Puedes observarlo aquí
 * Message
 
 ### Captura del proyecto
-![Captura del proyecto](/imagenes/captura%20para%20readme.png)
+![Captura del proyecto](/imagenes/clon%20pinterest%20final.png)
 
 
