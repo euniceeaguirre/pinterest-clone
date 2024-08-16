@@ -117,7 +117,7 @@ margin-top: 80px;
 }
 .button{
     position: absolute;
-    left: 44%;
+    left: 49%;
     top:5%;
     padding: 13px 15px;
     background-color: #e60023;
@@ -134,7 +134,7 @@ margin-top: 80px;
 }
 .oculto1{
     position: absolute;
-    left: 60%;
+    left: 52%;
     bottom: 8%;
     background-color: white;
     font-size: 30px;
@@ -148,7 +148,7 @@ margin-top: 80px;
 }
 .oculto2{
     position: absolute;
-    left: 70%;
+    left: 66%;
     bottom: 8%;
     background-color: white;
     font-size: 30px;
