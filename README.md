@@ -1,26 +1,25 @@
-# Clon de Pinterest de Eunice Areli
-## Proyecto realizado con Bootestrap 5
+# Portafolio de Eunice Areli Aguirre 
 
-Proyecto creado durante el bootcamp de Tecnolochicas PRO💜 , es adaptable a distintos dispositivos o tamaños de pantalla.
-El propósito de esta página es adquirir las habilidades para desarrollar una pagina de tal índole.
+## Proyecto responsivo realizado con Bootstrap5 
 
-Puedes observarlo aquí
-[Clon de Pinterest ] 
-(https://pinterest-clone-teal-beta.vercel.app/)
+Proyecto creado durante el Bootcamp de TecnolochicasPRO, es adaptable a distintos dispositivos o tamaños de pantallla.
+El roposito de esta pagina web es mostrar mi portafolio de proyetcos como desarrolladora web.💜 
+
+Podras encontralo aqui [Portafolio] (https://euniceeaguirre.github.io/)
 
 ### Tecnologías
-* HTML
+
+* HTML 
 * CSS
-* Bootstrap 5
+* BOOTSTRAP 5
+* JAVASCRIPT
 
 ### El proyecto cuenta con las siguientes secciones:
-* Home
-* Create
-* Search
-* Notifications
-* Message
+
+* Sobre mi
+* Habilidades
+* Proyectos
+* Contacto
 
 ### Captura del proyecto
-![Captura del proyecto](/imagenes/clon%20pinterest%20final.png)
-
-
+![Captura del proyecto](/assets/portafolio%20final.png)
